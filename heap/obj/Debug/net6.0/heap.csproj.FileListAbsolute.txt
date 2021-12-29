@@ -1,0 +1,15 @@
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\bin\Debug\net6.0\heap.exe
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\bin\Debug\net6.0\heap.deps.json
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\bin\Debug\net6.0\heap.runtimeconfig.json
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\bin\Debug\net6.0\heap.dll
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\bin\Debug\net6.0\ref\heap.dll
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\bin\Debug\net6.0\heap.pdb
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\obj\Debug\net6.0\heap.csproj.AssemblyReference.cache
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\obj\Debug\net6.0\heap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\obj\Debug\net6.0\heap.AssemblyInfoInputs.cache
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\obj\Debug\net6.0\heap.AssemblyInfo.cs
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\obj\Debug\net6.0\heap.csproj.CoreCompileInputs.cache
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\obj\Debug\net6.0\heap.dll
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\obj\Debug\net6.0\ref\heap.dll
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\obj\Debug\net6.0\heap.pdb
+C:\Users\audub\OneDrive\csharp\algos-dstructures\algos-dstructures\heap\obj\Debug\net6.0\heap.genruntimeconfig.cache
